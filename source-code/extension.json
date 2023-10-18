@@ -1,0 +1,13 @@
+{
+    "module": "ManualScheduledJob",
+    "name": "Manual Scheduled Job",
+    "description": "Run EspoCRM Scheduled Jobs Manually.",
+    "author": "manhtq",
+    "bundled": false,
+    "acceptableVersions": [
+        ">=7.3.0"
+    ],
+    "php": [
+        ">=7.2"
+    ]
+}
